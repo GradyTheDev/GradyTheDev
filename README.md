@@ -29,7 +29,7 @@ https://www.sitepoint.com/github-profile-readme/
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/GradyTheDev?style=social">
 </a>
 
-I'm a passionate backend software developer with 11 years experience building scalable and maintainable software solutions. <br/>
+I'm a passionate backend software developer with 11+ years experience building scalable and maintainable software solutions. <br/>
 I thrive on challenging projects that push me to learn and grow. <br/>
 I'm always looking for new opportunities to apply my skills and make a positive impact. <br/>
 
