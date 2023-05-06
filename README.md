@@ -19,12 +19,15 @@ https://www.sitepoint.com/github-profile-readme/
 
 <h1 name='title'> Grady Clark </h1>
 
-
-<div id="badges">
+<a href="https://www.linkedin.com/in/grady-clark-4ba112195/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<br/>
+
+<a href="https://github.com/GradyTheDev">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/GradyTheDev?style=social">
+</a>
 
 I'm a passionate backend software developer with 11 years experience building scalable and maintainable software solutions. <br/>
 I thrive on challenging projects that push me to learn and grow. <br/>
@@ -56,9 +59,11 @@ I'm always looking for new opportunities to apply my skills and make a positive 
 </div>
 
 <div>
-    Web Server Backend:&nbsp;
+    Web Server:&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Apache" alt="Apache" width="40" height="40"/>&nbsp;
+    
 </div>
     
 <div>
