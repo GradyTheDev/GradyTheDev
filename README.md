@@ -30,7 +30,7 @@ https://www.sitepoint.com/github-profile-readme/
 </a>
 
 I'm a passionate backend software developer.<br/>
-I started my coding journy when I was kid, and I'm always excited to learn more.<br/>
+I started my coding journey when I was kid, and I'm always excited to learn more.<br/>
 I thrive on challenging projects that push me to learn and grow. <br/>
 I'm always looking for new opportunities to apply my skills and make a positive impact. <br/>
 
