@@ -17,7 +17,7 @@ https://www.sitepoint.com/github-profile-readme/
 -->
 
 <div id="header" align="center">
-	<a href='https://gradythedev.github.io/'>
+	<a href='https://gradythedev.github.io/' target="_blank" rel="noopener noreferrer nofollow">
 		<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
 	</a>
 </div>
